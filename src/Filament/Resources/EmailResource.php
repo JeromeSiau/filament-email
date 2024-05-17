@@ -5,7 +5,6 @@ namespace RickDBCN\FilamentEmail\Filament\Resources;
 use App\Models\User;
 use Filament\Forms\Components\Fieldset;
 use Filament\Forms\Components\Tabs;
-use Filament\Forms\Components\Textarea;
 use Filament\Forms\Components\TextInput;
 use Filament\Forms\Components\ViewField;
 use Filament\Forms\Form;
